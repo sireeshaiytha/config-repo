@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/authdb
+    url: jdbc:postgresql://localhost:5432/bookdb
     username: postgres
     password: postgres
     driver-class-name: org.postgresql.Driver
